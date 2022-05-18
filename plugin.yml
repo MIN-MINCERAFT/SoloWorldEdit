@@ -1,0 +1,10 @@
+name: SoloWorldEdit
+main: Solo\WorldEdit\WorldEdit
+version: 0.1
+author: Solo(+Min)
+api: 4.0.0
+description: 4.0 patch
+
+permissions:
+  world.op:
+    default: op
